@@ -11,7 +11,7 @@ const Home = () => {
                        <div className="columns is-align-items-center">
                          <div className="column pt-8-tablet mb-12 mb-0-tablet" style={{marginBottom: '-120px !important'}}>
 
-                           <h2 className="has-text-grey-darker has-mw-xl title .is-size-2" style={{fontFamily:'\'Lexend Deca\', sans-serif', fontWeight: '200'}}>Practice live coding.<br/>Get hired faster!</h2>
+                           <h2 className="has-text-grey-darker has-mw-xl title .is-size-2" style={{fontFamily:'\'Lexend Deca\', sans-serif', fontWeight: '200'}}>Ala. Practice live coding.<br/>Get hired faster!</h2>
                            <div className="m-primary-img"><img className="image mx-auto" src="acros-assets/images/call-to-action/cta-12-work.png" alt=""/></div>
                            <p className="subtitle has-mw-md has-text-grey-darker mb-10 m-primary-desc" style={{display: 'inline'}}><b>CVs are outdated</b>. Showcase your skill through live coding and get hired by top companies.</p>
                            <div className="buttons mb-20" style={{marginTop: '36px'}}><a className="button is-primary mr-4" href="/live-code">Try it Free</a><a className="button is-dark is-outlined" href="#cvLive">Learn more</a></div>
