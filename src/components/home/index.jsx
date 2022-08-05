@@ -38,7 +38,7 @@ const Home = () => {
                    <aside className="py-6 px-6 pb-8 has-background-white is-flex is-flex-direction-column is-justify-content-space-between" style={{height: '100%', width: '288px', overflowY: 'auto'}}>
                      <div>
                        <a className="navbar-item title is-size-4 has-text-dark pl-4 mb-5" href="#">
-                         <img src="acros-assets/logo/logo.png" width="auto" style={{maxHeight:'initial',width:'100px'}} alt=""/>
+                         <img src="acros-assets/logo/logoh.png" width="auto" style={{maxHeight:'initial',width:'100px'}} alt=""/>
                        </a>
                        <ul className="menu-list title is-size-6">
                          <li><a className="py-4 px-6 has-text-grey-darker" href="#">Home</a></li>
